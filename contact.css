@@ -1,0 +1,28 @@
+.contact{
+   padding: 6.25rem 1.25rem;
+}
+textarea,input{
+    display: inline-block;
+    width: 100%;
+    font-size: 1rem;
+    border: 1px solid white;
+    padding-bottom: 0.625rem;
+    margin-bottom: 0.625rem;
+    margin-top: 0.625rem;
+    text-transform: capitalize;
+    border-radius: 5px;
+    
+}
+.half-row{
+  width: 50%;
+  float: left;
+}
+.firstname{
+    margin-right: 0.9375rem;
+}
+.email{
+    margin-left: 0.9375rem;
+}
+.contact_action{
+    margin-top: 1.875rem;
+}
